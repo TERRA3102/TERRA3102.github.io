@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TERRA</title>
+    <link rel="stylesheet" href="setting.css">
+</head>
+
+<body>
+    <div class="frame">
+        <h1>About Me</h1>
+        <h3>1.ゲーム作ってます<br>(主にScratch。プログラム言語はPython、Javaは勉強中)</h3>
+        <h3>2.ロボットプログラミング(C言語)<br>電子工作でArduino、RaspberryPiをしています</h3>
+        <h3></h3>
+        <h4>名前の由来は単位のTeraをもじったもの。</h4>
+        <h5><a href="index.html">top page</a></h5>
+    </div>
+</body>
+
+</html>
