@@ -1,0 +1,29 @@
+h1 {
+    color: #00FFFF;
+}
+
+body {
+    background-color: #008000;
+    text-align: center;
+}
+
+.frame {
+    background: #ffffff;
+    width: 630px;
+    margin: auto;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.made {
+    background: #ffffff;
+    width: 900px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 5px;
+}
